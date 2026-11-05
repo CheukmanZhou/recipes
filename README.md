@@ -1,2 +1,2 @@
 # Recipes
-A simple project created to be used as practice with basic HTML and CSS.
+TOP Project 1: A simple project for practicing basic HTML and CSS.
